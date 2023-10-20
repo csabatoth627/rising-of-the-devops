@@ -1,0 +1,31 @@
+node_modules
+npm-debug.log
+.git
+.cache
+# Build artifacts
+build/
+dist/
+*.class
+*.jar
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Compiled output
+target/
+bin/
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
